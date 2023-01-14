@@ -1,0 +1,60 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>b14265e7-4170-4ef0-8aac-6bb6cc92f932</UserSecretsId>
+    <ApplicationIcon>AppSettings Logo.ico</ApplicationIcon>
+    <StartupObject>AppSettings.API.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20201122022727_Init.cs" />
+    <Compile Remove="Migrations\20201122022727_Init.Designer.cs" />
+    <Compile Remove="Migrations\20201123232616_InitialCreate.cs" />
+    <Compile Remove="Migrations\20201123232616_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20201124001419_InitialCreate.cs" />
+    <Compile Remove="Migrations\20201124001419_InitialCreate.Designer.cs" />
+    <Compile Remove="Migrations\20221102005847_InitialCreate.cs" />
+    <Compile Remove="Migrations\20221102005847_InitialCreate.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="3.1.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.9">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.3.2" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+    <PackageReference Include="MSTest.TestAdapter" Version="2.2.10" />
+    <PackageReference Include="MSTest.TestFramework" Version="2.2.10" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.0" />
+    <PackageReference Include="System.Drawing.Common" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Migrations\" />
+    <Folder Include="TestFiles\" />
+    <Folder Include="Plugins\MediaConverter\ffmpeg\" />
+    <Folder Include="UserImages\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Ressources\LiveTickerBand_watermark.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Ressources\SportJack_Logo_212x60px.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="TestFiles\VideoTest1.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="TestFiles\VideoTest2.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+
+</Project>

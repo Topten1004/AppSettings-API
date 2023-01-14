@@ -1,0 +1,272 @@
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\appsettings.Development.json
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\appsettings.json
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\ServerDevice.exe
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\ServerDevice.deps.json
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\ServerDevice.runtimeconfig.json
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\ServerDevice.runtimeconfig.dev.json
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\ServerDevice.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\ref\ServerDevice.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\ServerDevice.pdb
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.AspNetCore.NodeServices.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\obj\Debug\net5.0\ServerDevice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\obj\Debug\net5.0\ServerDevice.AssemblyInfoInputs.cache
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\obj\Debug\net5.0\ServerDevice.AssemblyInfo.cs
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\obj\Debug\net5.0\ServerDevice.csproj.CoreCompileInputs.cache
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\obj\Debug\net5.0\ServerDevice.MvcApplicationPartsAssemblyInfo.cs
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\obj\Debug\net5.0\ServerDevice.MvcApplicationPartsAssemblyInfo.cache
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\obj\Debug\net5.0\staticwebassets\ServerDevice.StaticWebAssets.Manifest.cache
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\obj\Debug\net5.0\staticwebassets\ServerDevice.StaticWebAssets.xml
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\obj\Debug\net5.0\scopedcss\bundle\ServerDevice.styles.css
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\obj\Debug\net5.0\ServerDevice.RazorTargetAssemblyInfo.cache
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\obj\Debug\net5.0\ServerDevice.csproj.CopyComplete
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\obj\Debug\net5.0\ServerDevice.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\obj\Debug\net5.0\ref\ServerDevice.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\obj\Debug\net5.0\ServerDevice.pdb
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\obj\Debug\net5.0\ServerDevice.genruntimeconfig.cache
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\package.json
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\package-lock.json
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\obj\Debug\net5.0\ServerDevice.csprojAssemblyReference.cache
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Humanizer.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Work Document\Fiverr\timoboehme\Source Code\ServerDevice\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\appsettings.Development.json
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\appsettings.json
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\package-lock.json
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\package.json
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\ServerDevice.exe
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\ServerDevice.deps.json
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\ServerDevice.runtimeconfig.json
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\ServerDevice.runtimeconfig.dev.json
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\ServerDevice.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\ref\ServerDevice.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\ServerDevice.pdb
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Humanizer.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.AspNetCore.NodeServices.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\obj\Debug\net5.0\ServerDevice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\obj\Debug\net5.0\ServerDevice.AssemblyInfoInputs.cache
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\obj\Debug\net5.0\ServerDevice.AssemblyInfo.cs
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\obj\Debug\net5.0\ServerDevice.csproj.CoreCompileInputs.cache
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\obj\Debug\net5.0\ServerDevice.MvcApplicationPartsAssemblyInfo.cs
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\obj\Debug\net5.0\ServerDevice.MvcApplicationPartsAssemblyInfo.cache
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\obj\Debug\net5.0\staticwebassets\ServerDevice.StaticWebAssets.Manifest.cache
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\obj\Debug\net5.0\staticwebassets\ServerDevice.StaticWebAssets.xml
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\obj\Debug\net5.0\scopedcss\bundle\ServerDevice.styles.css
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\obj\Debug\net5.0\ServerDevice.RazorTargetAssemblyInfo.cache
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\obj\Debug\net5.0\ServerDevice.csproj.CopyComplete
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\obj\Debug\net5.0\ServerDevice.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\obj\Debug\net5.0\ref\ServerDevice.dll
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\obj\Debug\net5.0\ServerDevice.pdb
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\obj\Debug\net5.0\ServerDevice.genruntimeconfig.cache
+C:\Development\TBS\NIS Terminal\Solution\Webserver\01052021\ServerDevice\obj\Debug\net5.0\ServerDevice.csprojAssemblyReference.cache

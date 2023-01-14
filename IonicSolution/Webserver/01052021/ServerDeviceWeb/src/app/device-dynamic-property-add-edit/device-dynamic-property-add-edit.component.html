@@ -1,0 +1,59 @@
+<h1>{{actionType}} Device Dynamic Property</h1>
+<form [formGroup]="form" (ngSubmit)="save()" #formDir="ngForm" novalidate>
+  <div class="form-group row">
+    <label class=" control-label col-md-12">Display Text</label>
+    <div class="col-md-12">
+      <input class="form-control" type="text" formControlName="displaytext">
+    </div>
+    <span class="text-danger ml-3" *ngIf="displaytext!.invalid && formDir.submitted">
+      Display Text is required.
+    </span>
+  </div>
+  <div class="form-group row">
+    <label class="control-label col-md-12" for="name">Name</label>
+    <div class="col-md-12">
+      <input class="form-control" type="text" formControlName="name"/>
+    </div>
+    <span class="text-danger ml-3" *ngIf="name!.invalid && formDir.submitted">
+      Name is required.
+    </span>
+  </div>
+  <div class="form-group row">
+    <label class="control-label col-md-12" for="name">Read Only?</label>
+    <div class="col-md-12">
+      <input class="form-control" type="text" formControlName="isreadonly"/>
+    </div>
+   
+  </div>
+  <div class="form-group row">
+    <label class="control-label col-md-12" for="name">Value</label>
+    <div class="col-md-12">
+      <input class="form-control" type="text" formControlName="value"/>
+    </div>
+    <span class="text-danger ml-3" *ngIf="value!.invalid && formDir.submitted">
+      Value is required.
+    </span>
+  </div>
+  <div class="form-group row">
+    <label class="control-label col-md-12" for="name">Placeholder</label>
+    <div class="col-md-12">
+      <input class="form-control" type="text" formControlName="placeholder"/>
+    </div>
+    <span class="text-danger ml-3" *ngIf="name!.invalid && formDir.submitted">
+        Placeholder is required.
+    </span>
+  </div>
+  <div class="form-group row">
+    <label class="control-label col-md-12" for="name">Type</label>
+    <div class="col-md-12">
+      <input class="form-control" type="text" formControlName="type"/>
+    </div>
+    <span class="text-danger ml-3" *ngIf="type!.invalid && formDir.submitted">
+      Type is required.
+    </span>
+  </div>
+  <div class="form-group">
+    <button type="submit" class="btn btn-success float-right">Save</button>
+    <button class="btn btn-secondary float-left" (click)="cancel()">Cancel</button>
+  </div>
+</form>

@@ -1,0 +1,28 @@
+<h1>Device Dynamic Properties</h1>
+
+<p *ngIf="!(deviceDynamicProperties$ | async)"><em>Loading...</em></p>
+<p>
+  <a [routerLink]="['/add']" class="btn btn-primary float-right mb-3">New Property</a>
+</p>
+<table class="table table-sm table-hover" >
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Display Text</th>
+      <th>Name</th>
+      <th>Type</th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let deviceDynamicProperty of (deviceDynamicProperties$ | async)">
+      <td>{{ deviceDynamicProperty.propertyId }}</td>
+      <td>{{ deviceDynamicProperty.displayText }}</td>
+      <td>{{ deviceDynamicProperty.name }}</td>
+      <td>{{ deviceDynamicProperty.type }}</td>
+      <td><a [routerLink]="['/devicedynamicproperty/edit/', deviceDynamicProperty.propertyId]" class="btn btn-primary btn-sm float-right">Edit</a></td>
+      <td><a [routerLink]="" (click)="delete(deviceDynamicProperty.propertyId)" class="btn btn-danger btn-sm float-right">Delete</a></td>
+    </tr>
+  </tbody>
+</table>

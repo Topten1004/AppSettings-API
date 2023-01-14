@@ -1,0 +1,123 @@
+<h1>{{actionType}} device Details</h1>
+<form [formGroup]="form" (ngSubmit)="save()" #formDir="ngForm" novalidate>
+  <div class="form-group row">
+    <label class=" control-label col-md-12">Device Id</label>
+    <div class="col-md-12">
+      <input class="form-control" type="text" formControlName="strDeviceId" [readonly]="actionType=='Edit'">
+    </div>
+    <span class="text-danger ml-3" *ngIf="strDeviceId!.invalid && formDir.submitted">
+      Device Id is required.
+    </span>
+  </div>
+
+  <div class="form-group row">
+    <label class=" control-label col-md-12">Device Id(s)</label>
+    <div class="col-md-12">
+      <input class="form-control" type="text" formControlName="strDeviceIds">
+    </div>
+    <span class="text-danger ml-3" *ngIf="strDeviceIds!.invalid && formDir.submitted">
+      Device Id(s) are required.
+    </span>
+  </div>
+  <div class="form-group row">
+    <label class=" control-label col-md-12">Volume</label>
+    <div class="col-md-12">
+      <input class="form-control" type="number" formControlName="strVolume">
+    </div>
+    <span class="text-danger ml-3" *ngIf="strVolume!.invalid && formDir.submitted">
+      Volume is required.
+    </span>
+  </div>
+  <div class="form-group row">
+    <label class=" control-label col-md-12">Face Detection Quality</label>
+    <div class="col-md-12">
+      <input class="form-control" type="number" formControlName="bytFaceDetectionQuality">
+    </div>
+    <span class="text-danger ml-3" *ngIf="bytFaceDetectionQuality!.invalid && formDir.submitted">
+      Face Detection Quality is required.
+    </span>
+  </div>
+  <div class="form-group row">
+    <label class=" control-label col-md-12">Face Detection Mode</label>
+    <div class="col-md-12">
+      <input class="form-control" type="number" formControlName="bytFaceDetectionMode">
+    </div>
+    <span class="text-danger ml-3" *ngIf="bytFaceDetectionMode!.invalid && formDir.submitted">
+      Face Detection Mode is required.
+    </span>
+  </div>
+  <div class="form-group row">
+    <label class=" control-label col-md-12">Face Detection Max Frame Rate</label>
+    <div class="col-md-12">
+      <input class="form-control" type="number" formControlName="ushortFaceDetectionFrameRateMaximum">
+    </div>
+    <span class="text-danger ml-3" *ngIf="ushortFaceDetectionFrameRateMaximum!.invalid && formDir.submitted">
+      Face Detection Max Frame Rate is required.
+    </span>
+  </div>
+  <div class="form-group row">
+    <label class=" control-label col-md-12">Detection Count</label>
+    <div class="col-md-12">
+      <input class="form-control" type="number" formControlName="byteDetectionCount">
+    </div>
+    <span class="text-danger ml-3" *ngIf="byteDetectionCount!.invalid && formDir.submitted">
+        Detection Count is required.
+    </span>
+  </div>
+  <div class="form-group row">
+    <label class=" control-label col-md-12">Password</label>
+    <div class="col-md-12">
+      <input class="form-control" type="password" formControlName="strPassword">
+    </div>
+    <span class="text-danger ml-3" *ngIf="strPassword!.invalid && formDir.submitted">
+      Password is required.
+    </span>
+  </div>
+  <div class="form-group row">
+    <label class="control-label col-md-4">Show Debug Panel</label>
+    <div class="col-md-2">
+      <input type="checkbox" formControlName="strShowDubugPanel" class="form-check-input">
+    </div>
+   
+  </div>
+  <div class="form-group row">
+    <label class=" control-label col-md-4">Use Sampling</label>
+    <div class="col-md-2">
+      <input  type="checkbox" formControlName="boolUseSampling" class="form-check-input">
+    </div>
+   
+  </div>
+  <div class="form-group row">
+    <label class=" control-label col-md-4">QR Code Active?</label>
+    <div class="col-md-2">
+      <input  type="checkbox" formControlName="boolQrCodeActive" class="form-check-input">
+    </div>   
+  </div>
+  <div class="form-group row">
+    <label class=" control-label col-md-4">Online?</label>
+    <div class="col-md-2">
+      <input  type="checkbox" formControlName="boolIsOnline" class="form-check-input">
+    </div>   
+  </div>
+  <div class="form-group row">
+    <label class=" control-label col-md-4">Server Date</label>
+    <div class="col-md-2">
+      {{ (dateServerDateTimeTicks != null) ? (dateServerDateTimeTicks.value | date: "MMM,dd yyyy HH:mm:ss"):""}}
+    
+    </div>   
+  </div>
+  <div class="form-group row">
+    <label class=" control-label col-md-4">Client Date</label>
+    <div class="col-md-2">
+     
+      {{ (dateClientDateTimeTicks != null) ? (dateClientDateTimeTicks.value | date: "MMM,dd yyyy HH:mm:ss"):""}}
+     
+    </div>   
+  </div>
+
+  
+  <div class="form-group">
+    <button type="submit" class="btn btn-success float-right">Save</button>
+    <button class="btn btn-secondary float-left" (click)="cancel()">Cancel</button>
+  </div>
+</form>

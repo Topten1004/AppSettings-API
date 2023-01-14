@@ -1,0 +1,79 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Home</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<p *ngIf="submitAttempt" style="color: #ea6153;">Please fill out all details accurately.</p>
+
+<ion-content lines="none">
+
+  <form [formGroup]="form">
+
+    <ion-item>
+      <ion-label position="floating">Device Id</ion-label>
+      <ion-input formControlName="strDeviceId" type="text" readonly="true"
+        >
+      </ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="floating">Device Id(s)</ion-label>
+      <ion-input formControlName="strDeviceIds" type="text"></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label position="floating">Volume</ion-label>
+      <ion-input formControlName="strVolume" type="number"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="floating">Face Detection Quality</ion-label>
+      <ion-input formControlName="bytFaceDetectionQuality" type="number"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="floating">Face Detection Mode</ion-label>
+      <ion-input formControlName="bytFaceDetectionMode" type="number"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="floating">Face Detection Max Frame Rate</ion-label>
+      <ion-input formControlName="ushortFaceDetectionFrameRateMaximum" type="number"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="floating">Detection Count</ion-label>
+      <ion-input formControlName="byteDetectionCount" type="number"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="floating">Password</ion-label>
+      <ion-input formControlName="strPassword" type="Password"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label >Show Debug Panel</ion-label>
+      <ion-checkbox formControlName="strShowDubugPanel" slot="end"></ion-checkbox>      
+    </ion-item>
+    <ion-item>
+      <ion-label >Use Sampling</ion-label>
+      <ion-checkbox formControlName="boolUseSampling" slot="end"></ion-checkbox>      
+    </ion-item>
+    <ion-item>
+      <ion-label >QR Code Active?</ion-label>
+      <ion-checkbox formControlName="boolQrCodeActive" slot="end"></ion-checkbox>            
+    </ion-item>
+    <ion-item>
+      <ion-label >Online?</ion-label>
+      <ion-checkbox formControlName="boolIsOnline" slot="end"></ion-checkbox>            
+    </ion-item>
+    <ion-item>
+      <ion-label position="floating" >Server Date</ion-label>
+      <ion-datetime formControlName="dateServerDateTimeTicks" displayFormat="MMM,DD YYYY h:mm a" readonly="true" ></ion-datetime>            
+    </ion-item>
+    <ion-item>
+      <ion-label position="floating">Client Date</ion-label>
+      <ion-datetime formControlName="dateClientDateTimeTicks" displayFormat="MMM,DD YYYY h:mm a"  readonly="true"></ion-datetime>            
+    </ion-item>
+    <ion-item>
+      <ion-button expand="full" color="primary" (click)="save()">Save</ion-button>
+      <ion-button class="btn btn-secondary float-left" (click)="cancel()">Cancel</ion-button>
+    </ion-item>
+  </form>
+
+</ion-content>

@@ -1,0 +1,20 @@
+p {
+    font-size: 0.8em;
+    color: #d2d2d2;
+}
+
+ion-slides {
+	height: 100%;
+}
+
+ion-slide {
+    display: block;
+}
+
+ion-label, .select-text {
+    margin-left: 10px;
+}
+
+.invalid {
+    border-bottom: 1px solid #ea6153;
+}

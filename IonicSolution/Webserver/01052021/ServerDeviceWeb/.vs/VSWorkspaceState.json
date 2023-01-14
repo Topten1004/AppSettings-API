@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\e2e",
+    "\\e2e\\src",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\device-detail",
+    "\\src\\app\\device-detail-add-edit"
+  ],
+  "SelectedNode": "\\src\\app\\device-detail-add-edit\\device-detail-add-edit.component.ts",
+  "PreviewInSolutionExplorer": false
+}

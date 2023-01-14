@@ -1,0 +1,14 @@
+Migration needs to be performed on your machine to create database
+adeelkhandev
+
+Adeelkhandev
+19. Nov. 2020, 10:17 AM
+
+Please run a command in your package manager console
+
+Update-database
+
+Remove-Migration
+(ggf Remove-Migration -Force)
+
+Add-Migration InitialCreate

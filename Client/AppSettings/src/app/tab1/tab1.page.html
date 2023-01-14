@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Photo-Gallery</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-grid>
+    <ion-row>
+    <ion-col size="6" 
+      *ngFor="let photo of photoService.savedPhotos; index as position">
+      <p>{{index}}</p>  
+      <p>{{CreatedDate}}</p>
+      <ion-img [src]="'data:image/jpeg;base64,' + photo.Image"></ion-img>
+    </ion-col>
+    </ion-row>
+  </ion-grid>
+
+</ion-content>

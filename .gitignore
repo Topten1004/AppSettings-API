@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PhotoGallery.API/bin/Debug/netcoreapp3.1
+/PhotoGallery.API/obj
+/.vs/PhotoGallery.API/v16/Server/sqlite3
+/PhotoGallery.API/UserImages/f848c649-5f99-4dc8-a3a1-02a1dc46e24a.jpeg
+/.vs/PhotoGallery.API
+/AppSettings.API/bin/Debug/netcoreapp3.1
+/AppSettings.API/bin
+/AppSettings.API/obj
+/AppSettings.API/BinaryData
+/AppSettings.API/TestOutput
+/.vs
+Client.rar

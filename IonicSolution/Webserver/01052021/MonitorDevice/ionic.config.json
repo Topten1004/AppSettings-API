@@ -1,0 +1,8 @@
+{
+  "name": "MonitorDevice",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}

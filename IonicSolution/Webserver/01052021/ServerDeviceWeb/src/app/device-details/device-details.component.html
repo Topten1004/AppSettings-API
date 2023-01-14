@@ -1,0 +1,50 @@
+<h1>Device Details</h1>
+
+<p *ngIf="!(deviceDetails$ | async)"><em>Loading...</em></p>
+<p>
+  <a [routerLink]="['/devicedetail/add']" class="btn btn-primary float-right mb-3">New Device</a>
+</p>
+
+<table class="table table-sm table-hover" >
+  <thead>
+    <tr>
+     <th></th>
+      <th>Device Id</th>
+      <th>Device Ids</th>
+      <th>Password</th>
+      <th>Volume</th>
+      <th>Show Debug Panel</th>
+      <th>Use Sampling</th>
+      
+      <th>Face Detection Quality</th>
+      <th>Face Detection Mode</th>
+      <th>Face Detection Max Frame Rate</th>
+      <th>QR Code Active?</th>
+      <th>Detection Count</th>
+      <th>Client Date</th>
+      <th>Server Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let deviceDetail of (deviceDetails$ | async)">
+      <td ><i [ngClass]="{'bg-success' : deviceDetail.boolIsOnline,'bg-danger':!deviceDetail.boolIsOnline}" style="padding: 5px;
+        display: inline-block;"></i></td>
+      <td>{{ deviceDetail.strDeviceId }}</td>
+      <td>{{ deviceDetail.strDeviceIds }}</td>
+      <td>{{ deviceDetail.strPassword }}</td>
+      <td>{{ deviceDetail.strVolume }}</td>
+      <td>{{ deviceDetail.strShowDubugPanel }}</td>
+      <td>{{ deviceDetail.boolUseSampling }}</td>
+      
+      <td>{{ deviceDetail.bytFaceDetectionQuality }}</td>
+      <td>{{ deviceDetail.bytFaceDetectionMode }}</td>
+      <td>{{ deviceDetail.ushortFaceDetectionFrameRateMaximum }}</td>
+      <td>{{ deviceDetail.boolQrCodeActive }}</td>
+      <td>{{ deviceDetail.byteDetectionCount }}</td>
+      <td>{{ deviceDetail.dateClientDateTimeTicks | date: "MM/dd/YYYY HH:mm" }}</td>
+      <td>{{ deviceDetail.dateServerDateTimeTicks | date: "MM/dd/YYYY HH:mm" }}</td>
+      <td><a [routerLink]="['/devicedetail/edit/', deviceDetail.strDeviceId]" class="btn btn-primary btn-sm float-right">Edit</a></td>
+      <td><a [routerLink]="" (click)="delete(deviceDetail.strDeviceId)" class="btn btn-danger btn-sm float-right">Delete</a></td>
+    </tr>
+  </tbody>
+</table>

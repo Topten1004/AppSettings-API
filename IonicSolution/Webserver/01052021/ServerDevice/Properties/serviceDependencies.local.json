@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": null,
+      "type": "mssql.local",
+      "connectionId": "ServerDeviceContext",
+      "secretStore": null
+    }
+  }
+}
